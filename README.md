@@ -2,7 +2,7 @@
 Monte Carlo Simulation via Quantum Circuits - THE WISER Program 2025 Project
 
 ## Project Details
-- **Project Name :** Monte Carlo Simulation via Quantum Circuits
+- **Project Name :** Quantum Walks and Monte Carlo
 - **Team Name :** SeeQ
 - **Team Members:**
   - Raouf Ould Ali | gst-TFh9DYIlGTGankG
