@@ -2,11 +2,11 @@
 Monte Carlo Simulation via Quantum Circuits - THE WISER Program 2025 Project
 
 ## Project Details
-Project Name : Monte Carlo Simulation via Quantum Circuits
-Team Name : SeeQ
-Team Members:
-Raouf Ould Ali | gst-TFh9DYIlGTGankG
-Rassim Cherir | gst-izEWAXhadEwOt1j
+- **Project Name :** Monte Carlo Simulation via Quantum Circuits
+- **Team Name :** SeeQ
+- **Team Members:**
+  - Raouf Ould Ali | gst-TFh9DYIlGTGankG
+  - Rassim Cherir | gst-izEWAXhadEwOt1j
 
 ## Project Summary
 We set out to build a **Quantum Galton Board (QGB)** as part of the WISER 2025 Quantum Program, aiming to create a *universal statistical simulator* that works like a classical Galton board but with a quantum twist. The classical version drops a ball through pegs, each deflecting it left or right with equal probability, producing a Gaussian distribution. In quantum computing, we can do better — **superposition** lets us explore all possible paths at once, and measurement picks one outcome at the end.
